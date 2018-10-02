@@ -1,0 +1,15 @@
+.hero {
+  background-image: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg);";
+  background-size: cover;
+  width: 1563px;
+  height: 556px;
+}
+
+p {
+  color: white;
+}
+
+.center {
+  margin: 0 auto;
+  vertical-align: center;
+}
